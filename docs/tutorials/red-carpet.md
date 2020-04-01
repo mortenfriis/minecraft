@@ -14,7 +14,7 @@ player.onTravelled(WALK, function () {
 })
 ```
 
-### Place some flowers
+### Place some flowers (Should be in danish?)
 
 Under ``||blocks:Blokke||`` finder du blokken ``||blocks:placer ved||``. Træk den hen så den sætter sig fast inde i ``||player:på spilleren gå||`` blokken
 
